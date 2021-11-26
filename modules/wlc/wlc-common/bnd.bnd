@@ -1,0 +1,4 @@
+Bundle-Name: wlc-common
+Bundle-SymbolicName: wlc.common
+Bundle-Version: 1.0.0
+Export-Package: wlc.common.constants

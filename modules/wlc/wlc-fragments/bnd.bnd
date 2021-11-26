@@ -1,0 +1,4 @@
+Bundle-Name: com.liferay.wlc.fragments
+Bundle-SymbolicName: com.liferay.wlc.fragments
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.wlc.fragments
